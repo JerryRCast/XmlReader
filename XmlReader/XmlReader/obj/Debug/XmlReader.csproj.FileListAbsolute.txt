@@ -1,0 +1,6 @@
+C:\Users\gerardo.rios\Documents\Visual Studio 2015\Projects\XmlReader\XmlReader\bin\Debug\XmlReader.exe.config
+C:\Users\gerardo.rios\Documents\Visual Studio 2015\Projects\XmlReader\XmlReader\bin\Debug\XmlReader.exe
+C:\Users\gerardo.rios\Documents\Visual Studio 2015\Projects\XmlReader\XmlReader\bin\Debug\XmlReader.pdb
+C:\Users\gerardo.rios\Documents\Visual Studio 2015\Projects\XmlReader\XmlReader\obj\Debug\XmlReader.csprojResolveAssemblyReference.cache
+C:\Users\gerardo.rios\Documents\Visual Studio 2015\Projects\XmlReader\XmlReader\obj\Debug\XmlReader.exe
+C:\Users\gerardo.rios\Documents\Visual Studio 2015\Projects\XmlReader\XmlReader\obj\Debug\XmlReader.pdb

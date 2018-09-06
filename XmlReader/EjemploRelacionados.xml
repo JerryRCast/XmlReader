@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><Comprobante xmlns_xsi="http://www.w3.org/2001/XMLSchema-instance" xsi_schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Version="3.3" Serie="AC" Folio="2090497458" Fecha="2018-08-30T20:41:14" Sello="X4DooA7etN/iBHwzTqq7rx5ZZR6DhJ+QX0jCoMzHGDw6KNfwCXwXITdzIR2keKugftHWjVY5oFqWPIoDA7yFsWykAW7RZ7ltEcaK9zSqAcIaX/MtwPCcWuyrzRlj8TARrBK572cwd+/kEW83zygTpGwr2ozK16BQRYCvpnzpm6S6arkZ95oH8en2wHmcBRTxaWA24AXTIEjZ5diQqPL5ZBOCn11b0pQrr31nyTWeflPOMHNO7Q8m/Z9cb/RJnpqga12kMMkgleZQFuJLuUCY3LQGN3ZMzlmZmofusTzuT4vAs0b9C/x47cEK3inULi6/PsW4rQ5oAyIJAsV4N5ewWA==" FormaPago="99" NoCertificado="00001000000404129222" Certificado="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" SubTotal="279516.29" Moneda="MXN" TipoCambio="1" Total="324238.90" TipoDeComprobante="E" MetodoPago="PPD" LugarExpedicion="05120" xmlns_cfdi="http://www.sat.gob.mx/cfd/3"><CfdiRelacionados TipoRelacion="04"><CfdiRelacionado UUID="38973CCE-F22B-4DBD-A09D-51FE8B267221" /><CfdiRelacionado UUID="77565AF5-3BD8-424B-8BB2-7D8F2179B362" /></CfdiRelacionados><Emisor Rfc="MME070619C87" Nombre="MERCEDES-BENZ MEXICO, S. DE R.L. DE C.V." RegimenFiscal="601" /><Receptor Rfc="DFS070523DWA" Nombre="DAIMLER FINANCIAL SERVICES MEXICO S DE RL DE CV" UsoCFDI="P01" /><Conceptos><Concepto ClaveProdServ="25101500" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="forfour passion turbo" ValorUnitario="279516.29" Importe="279516.29"><Impuestos><Traslados><Traslado Base="279516.29" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="44722.61" /></Traslados></Impuestos><ComplementoConcepto><VentaVehiculos xsi_schemaLocation="http://www.sat.gob.mx/ventavehiculos http://www.sat.gob.mx/sitio_internet/cfd/ventavehiculos/ventavehiculos11.xsd" version="1.1" ClaveVehicular="0 14 52 36" Niv="WMEFF4EBXJY164368" xmlns_ventavehiculos="http://www.sat.gob.mx/ventavehiculos"><InformacionAduanera numero="18 43 1669 8000948" fecha="2018-01-29" /></VentaVehiculos></ComplementoConcepto></Concepto></Conceptos><Impuestos TotalImpuestosTrasladados="44722.61"><Traslados><Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="44722.61" /></Traslados></Impuestos><Complemento><TimbreFiscalDigital xmlns_tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns_xsi="http://www.w3.org/2001/XMLSchema-instance" xsi_schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="F8DFEF04-6350-4464-81C3-34FB1DE7732B" FechaTimbrado="2018-08-30T20:41:17" RfcProvCertif="ASE0209252Q1" Leyenda="Timbre de prueba" SelloCFD="X4DooA7etN/iBHwzTqq7rx5ZZR6DhJ+QX0jCoMzHGDw6KNfwCXwXITdzIR2keKugftHWjVY5oFqWPIoDA7yFsWykAW7RZ7ltEcaK9zSqAcIaX/MtwPCcWuyrzRlj8TARrBK572cwd+/kEW83zygTpGwr2ozK16BQRYCvpnzpm6S6arkZ95oH8en2wHmcBRTxaWA24AXTIEjZ5diQqPL5ZBOCn11b0pQrr31nyTWeflPOMHNO7Q8m/Z9cb/RJnpqga12kMMkgleZQFuJLuUCY3LQGN3ZMzlmZmofusTzuT4vAs0b9C/x47cEK3inULi6/PsW4rQ5oAyIJAsV4N5ewWA==" NoCertificadoSAT="20001000000300022323" SelloSAT="l8Iwv2OEOdYo4tUVLP7jxfr6e6NuZM6Uut/HLZrMcdVxIszjBcxxzxn77aqrNj3zN1Nzkol4Rw+4B5quAlnor4hpiRigII7JfFbvc4yuGmHSeVxoYGxL8ynH5wVbxnBRbWg7/OCScea4nBCNGDRGxPuR/WLlfY17aM5AXldxsNZODP8w+AKqhyL6cWHxQP/VtcC4BlmAS0bRncy4ipXNoRtpsow+HHCgf+1U5UaouM6rc4aRHlIM1x7EKKb96pYE8Du6yfc7BtYAEnc6VFjxFXiuBzch6pymohhKz1uR4KQZPVmwraT+0Au6zoae9f19qkzSwNySybnMOBL+KmsZfg==" /></Complemento><COFIDI>
+  <Factura>
+    <customfield01>0 14 52 36</customfield01>
+    <factura>2090497458</factura>
+    <fechaemision>{ts'28032018'}</fechaemision>
+    <cliente>M01M8231</cliente>
+    <customfield02>RE</customfield02>
+    <customfield03>45304410-MXT</customfield03>
+    <customfield04>2018</customfield04>
+    <customfield05>WMEFF4EBXJY164368</customfield05>
+    <razonsocial>DAIMLER FINANCIAL SERVICES MEXICO S DE RL DE CV</razonsocial>
+    <calle>AVENIDA PASEO DE LOS TAMARINDOS</calle>
+    <numero>90</numero>
+    <numeroint>PISO 16</numeroint>
+    <localidad>BOSQUES DE LAS LOMAS</localidad>
+    <cp>05120</cp>
+    <delegacion>MEXICO</delegacion>
+    <pais>Mexico</pais>
+    <estado>Ciudad de México</estado>
+    <rfc>DFS070523DWA</rfc>
+    <customfield06>IMPORTADO DE FRANCIA</customfield06>
+    <customfield07>POR Mercedes-Benz Mexico, S. de R.L. de C.V.</customfield07>
+    <customfield08>CON EL PEDIMENTO O DECLARACION NO.18  43  1669  8000948</customfield08>
+    <customfield09>DEL20180129</customfield09>
+    <customfield10>Veracruz</customfield10>
+    <customfield11>CHIP_NO e2003412013cb079fc7cce53</customfield11>
+    <customfield12>2MF9K4B5</customfield12>
+    <customfield13>0773781338</customfield13>
+    <customfield14>281910G0217652</customfield14>
+    <customfield16>forfour passion turbo</customfield16>
+    <customfield17>FORFOUR</customfield17>
+    <customfield22>EN4-Tridion cell black</customfield22>
+    <customfield23>ICL-passion equipment</customfield23>
+    <subtotal>279516.29</subtotal>
+    <impuesto>44722.61</impuesto>
+    <monto>324238.90</monto>
+    <moneda>MXN</moneda>
+    <customfield15>TRESCIENTOS VEINTICUATRO MIL DOSCIENTOS TREINTA Y OCHO Pesos 90/100 M.N</customfield15>
+    <customfield18>EL IMPORTE EN PESOS MEXICANOS ES 324238.90</customfield18>
+    <customfield19>AL TIPO DE CAMBIO DEL DIA QUE ES 1.00000</customfield19>
+    <customfield20>IMPUESTO SOBRE AUTOS NUEOVOS</customfield20>
+    <customfield21>2981.52</customfield21>
+    <serie>AC</serie>
+    <tipodocumento>12</tipodocumento>
+    <Fecha>2018-08-30T20:41:14</Fecha>
+    <observaciones />
+    <notas />
+    <CustomField15en>THREE HUNDRED TWENTYFOUR THOUSAND TWO HUNDRED THIRTYEIGHT  AND 9/100 Pesos</CustomField15en>
+    <tipoDeComprobante>egreso</tipoDeComprobante>
+    <total01>0.00</total01>
+    <total02>0.00</total02>
+    <total03>0.00</total03>
+    <Retencion>0.00</Retencion>
+    <FolioFiscal>2090497458</FolioFiscal>
+  </Factura>
+  <CFDDetPedimento>
+    <consecutivo>1</consecutivo>
+    <pedimento>18  43  1669  8000948</pedimento>
+    <fechapedimento>2018-01-29</fechapedimento>
+  </CFDDetPedimento>
+  <CFDDventavehiculos>
+    <consecutivo>1</consecutivo>
+    <clavevehicular>0 14 52 36</clavevehicular>
+    <niv>WMEFF4EBXJY164368</niv>
+  </CFDDventavehiculos>
+  <AjustesCOFIDI>
+    <complementa>DAIMLER</complementa>
+    <tipo>IA</tipo>
+  </AjustesCOFIDI>
+  <FacturaDtl>
+    <producto />
+    <descripcion>forfour passion turbo</descripcion>
+    <precio>279516.29</precio>
+    <customfield01>279516.29</customfield01>
+    <cantidad>1</cantidad>
+    <unidadmedida>Pieza</unidadmedida>
+    <claveprodserv>25101500</claveprodserv>
+    <claveunidad>H87</claveunidad>
+    <consecutivo>1</consecutivo>
+    <importe>279516.29</importe>
+    <descuento>0.00</descuento>
+  </FacturaDtl>
+  <CFDEncImpuesto>
+    <tipoimpuesto>TRA</tipoimpuesto>
+    <porcentajeimpuesto>16.00</porcentajeimpuesto>
+    <montoimpuesto>44722.61</montoimpuesto>
+    <IdentificacionImpuesto>IVA</IdentificacionImpuesto>
+    <TipoFactor>Tasa</TipoFactor>
+  </CFDEncImpuesto>
+  <CFDIRelacionados>
+    <uuid>38973CCE-F22B-4DBD-A09D-51FE8B267221</uuid>
+    <tiporelacion>04</tiporelacion>
+    <consecutivo>1</consecutivo>
+    <folio>1190524799</folio>
+  </CFDIRelacionados>
+  <CFDIRelacionados>
+    <uuid>77565AF5-3BD8-424B-8BB2-7D8F2179B362</uuid>
+    <tiporelacion>04</tiporelacion>
+    <consecutivo>2</consecutivo>
+    <folio>1090497458</folio>
+  </CFDIRelacionados>
+  <Empresa>
+    <empresaId>0000000001</empresaId>
+    <razonSocial>MERCEDES-BENZ MEXICO, S. DE R.L. DE C.V.</razonSocial>
+    <glnEmisor />
+    <sucursal>Autos y Directos</sucursal>
+    <rfc>MME070619C87</rfc>
+    <tipoEmpresaId>2</tipoEmpresaId>
+    <estatusEmpresaId>01</estatusEmpresaId>
+    <cReferencia1 />
+    <cReferencia2 />
+    <nReferencia1>0.000000</nReferencia1>
+    <registroPatronal />
+    <codigo>PM</codigo>
+  </Empresa>
+  <CSD>
+    <CertificadoSerie>00001000000404129222</CertificadoSerie>
+    <certificadoSerializado>AAEAAAD/////AQAAAAAAAAAMAgAAAEphdGViLnNhdG14LnNlY3VyaXR5LCBWZXJzaW9uPTEuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAALmF0ZWIuc2F0bXguc2VjdXJpdHkuU0FUQ2VydGlmaWNhdGUuQ2VydGlmaWNhdGUPAAAACGRpc3Bvc2VkDl9oYXNQcml2YXRlS2V5Cl9yZmNFbWlzb3IDX291Cl9zYXRzZXJpYWwCX28LX2NvbW1vbm5hbWUGX1RlcjQxCV9zdWJqS2V5cwlfY2VydFR5cGUHX2JpbkNlcgdfYmluS2V5B19iaW5TYXQFX2JpblALX2V4cG9ydFg1MDkAAAEBAQEBAQMEBwcHAQcBARxTeXN0ZW0uQ29sbGVjdGlvbnMuSGFzaHRhYmxlMmF0ZWIuc2F0bXguc2VjdXJpdHkuU0FUQ2VydGlmaWNhdGUuQ2VydGlmaWNhdGVUeXBlAgAAAAICAgICAAAAAAEGAwAAAAxNTUUwNzA2MTlDODcGBAAAACNNRVJDRURFUyBCRU5aIE3DiVhJQ08gUyBERSBSTCBERSBDVgYFAAAAAAYGAAAAIk1FUkNFREVTLUJFTlogTUVYSUNPIFMgREUgUkwgREUgQ1YGBwAAACJNRVJDRURFUy1CRU5aIE1FWElDTyBTIERFIFJMIERFIENWCQUAAAAJCQAAAAX2////MmF0ZWIuc2F0bXguc2VjdXJpdHkuU0FUQ2VydGlmaWNhdGUuQ2VydGlmaWNhdGVUeXBlAQAAAAd2YWx1ZV9fAAgCAAAAAAAAAAkLAAAACQwAAAAKBg0AAAAwRUFBQUFDakk0UVJjWkpwMGNYY21LN2hoL09WUmE1ZDlVTnU2NnBza3ZGTU9tWkluCgQJAAAAHFN5c3RlbS5Db2xsZWN0aW9ucy5IYXNodGFibGUHAAAACkxvYWRGYWN0b3IHVmVyc2lvbghDb21wYXJlchBIYXNoQ29kZVByb3ZpZGVyCEhhc2hTaXplBEtleXMGVmFsdWVzAAADAwAFBQsIHFN5c3RlbS5Db2xsZWN0aW9ucy5JQ29tcGFyZXIkU3lzdGVtLkNvbGxlY3Rpb25zLklIYXNoQ29kZVByb3ZpZGVyCOxROD8JAAAACgoRAAAACQ4AAAAJDwAA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</certificadoSerializado>
+  </CSD>
+  <EmpresaMetodoDePago>
+    <metodoDePago>99</metodoDePago>
+    <usoCFDI>P01</usoCFDI>
+    <MetodoPago>PPD</MetodoPago>
+  </EmpresaMetodoDePago>
+  <EmpresaRF>
+    <Regimen>601</Regimen>
+  </EmpresaRF>
+  <Direccion>
+    <direccionId>4</direccionId>
+    <tipoDireccionId>F</tipoDireccionId>
+    <codigo />
+    <sufijo />
+    <nombre />
+    <calle>Avenida Paseo de los Tamarindos</calle>
+    <numero>90 Piso 10</numero>
+    <colonia>Bosques de las Lomas</colonia>
+    <delegacion>Cuajimalpa</delegacion>
+    <estado>CDMX</estado>
+    <cp>05120</cp>
+    <pais>MEX</pais>
+    <numeroInt />
+    <referenciaDireccion />
+    <gln />
+    <localidad>Cuajimalpa</localidad>
+    <lugarExpedicion>05120</lugarExpedicion>
+  </Direccion>
+  <EmpresaCfgFacturacion>
+    <empresaId>0000000001</empresaId>
+    <nofacturaautomatico>true</nofacturaautomatico>
+    <formatonofactura>0</formatonofactura>
+    <moneda>MXP</moneda>
+    <impuesto>0.160</impuesto>
+    <noCopiasFactura>0</noCopiasFactura>
+    <clienteAutomatico>true</clienteAutomatico>
+    <tipoCalculo>2</tipoCalculo>
+    <decimales>2</decimales>
+    <metodoDePago>99</metodoDePago>
+    <preciovariable>false</preciovariable>
+    <impuestoxproducto>false</impuestoxproducto>
+    <descuentoxproducto>false</descuentoxproducto>
+    <estatusImpFE>02</estatusImpFE>
+    <tipoImportacion>IA</tipoImportacion>
+    <dirImpFE>C:\DAIMLER\Archivos\Import\ArchivoPlano</dirImpFE>
+    <estatusImpFEP>01</estatusImpFEP>
+    <dirImpFEP />
+    <dirExpFE>C:\DAIMLER\Archivos\Export\CFDI_XML_PDF\0000000001</dirExpFE>
+    <versionCFD>3.3</versionCFD>
+    <formato7>false</formato7>
+    <formato6>false</formato6>
+    <formato9>true</formato9>
+    <formato13>true</formato13>
+    <dirWeb />
+    <asignarFechaHora>true</asignarFechaHora>
+    <asignarRFCGenerico>false</asignarRFCGenerico>
+    <rfcGenerico />
+    <empresaIdCatalogos>0000000001</empresaIdCatalogos>
+    <validaSocioComercial>false</validaSocioComercial>
+    <comInfFiscal>true</comInfFiscal>
+    <transporte>00</transporte>
+    <asignaFolios>false</asignaFolios>
+    <empresaFolios>DAIMLER</empresaFolios>
+    <corregirFecha>true</corregirFecha>
+    <horasTimbrado>72</horasTimbrado>
+    <regSocioComercial>false</regSocioComercial>
+    <tipoRegSC />
+    <usoCFDI>P01</usoCFDI>
+    <metodoPago>PPD</metodoPago>
+  </EmpresaCfgFacturacion>
+  <CfgCFDI>
+    <empresaId>0000000001</empresaId>
+    <url>http://201.144.64.67:81/wsTimbrado.asmx</url>
+    <encriptado>false</encriptado>
+    <usuario>autofac_t</usuario>
+    <password>C28MeVMyzyldaCiCtLG4X8TmXZxHTZj4YJ2eQcm0WN0=</password>
+    <pruebas>true</pruebas>
+    <corregirDuplicados>true</corregirDuplicados>
+  </CfgCFDI>
+  <Moneda>
+    <moneda>COP</moneda>
+    <descripcion>Pesos Colombianos</descripcion>
+    <tipoCambio>1.0000</tipoCambio>
+    <desCheque1>Pesos colombianos</desCheque1>
+    <desCheque2>Pesos colombianos</desCheque2>
+  </Moneda>
+  <Moneda>
+    <moneda>MXP</moneda>
+    <descripcion>Pesos Mexicanos</descripcion>
+    <tipoCambio>3.0000</tipoCambio>
+    <desCheque1>Pesos</desCheque1>
+    <desCheque2>Pesos</desCheque2>
+  </Moneda>
+  <Moneda>
+    <moneda>USD</moneda>
+    <descripcion>Dólares Americanos</descripcion>
+    <tipoCambio>11.1000</tipoCambio>
+    <desCheque1>USD</desCheque1>
+    <desCheque2 />
+  </Moneda>
+  <EmpresaContactos>
+    <contactoId>2</contactoId>
+    <nombre />
+    <apellidoPaterno />
+    <apellidoMaterno />
+    <correo>ivan.macias@ateb.com.mx</correo>
+    <area />
+    <comentarios />
+  </EmpresaContactos>
+  <CFDDetImpuesto>
+    <Consecutivo>1</Consecutivo>
+    <TipoImpuesto>TRA</TipoImpuesto>
+    <IdentificacionImpuesto>IVA</IdentificacionImpuesto>
+    <PorcentajeImpuesto>16.00</PorcentajeImpuesto>
+    <MontoImpuesto>44722.61</MontoImpuesto>
+    <tipoFactor>Tasa</tipoFactor>
+    <base>279516.29</base>
+  </CFDDetImpuesto>
+  <CFDComprobante>
+    <UsoCFDI>P01</UsoCFDI>
+  </CFDComprobante>
+</COFIDI></Comprobante>
